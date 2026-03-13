@@ -48,7 +48,7 @@ This project helps beginners understand how ultrasonic sensors work and how Ardu
 
 You can download the Arduino sketch here:
 
-[Download Arduino Code](Arduino_Ultrasonic_Distance_Test.ino)
+[Download Arduino Code](arduino-ultrasonic-distance-test.ino)
 
 Or open the `.ino` file directly inside this repository.
 
@@ -92,7 +92,7 @@ You can expand this project by adding:
 
 Watch the full step-by-step tutorial on YouTube:
 
-👉 https://youtu.be/YOUR_VIDEO_LINK
+👉 
 
 In this video, you will see:
 - Complete wiring demonstration  
